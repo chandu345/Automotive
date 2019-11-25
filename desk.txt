@@ -1,0 +1,99 @@
+where will be errors are located in compilation stages.
+ what is the linker process.after linker what is the next stage
+on a bus many nodes are there, how will they know other node's presence 
+ when malloc will fail and what will happen
+a.1) to check the status of the key
+a.2) by using the status of key, make the LED ON and OFF
+Have u faced any arbitaration issues in your projcet.
+
+how to access global variables and static variables in another files?
+
+how to represent  negative values?
+How to identify the msb 8 bits data is 0xaa or not in a given integer ?
+Create a structure with members are int type and pointer type,
+ create memory for structure  by using dma calls and assign value and deallocate the memory for it
+
+Tell me a real time experience of debugging example.
+
+3.5amp how do you feed in to embedded c
+
+Explain about multi master functionality in my project.
+
+
+if you have two transmitter with same frequency how to communicate
+
+How receiver listening different transmitters.
+
+
+How did you simulate your project?
+
+Timer logic to turn on LED every 5ms sec and turn off
+
+Counter logic turn to on LED for every 5ms and turnoff
+
+How initializing timer for each 5 sec
+
+Do you use float data type in embedded c?
+How can we use float values without float data type
+
+
+
+15. How do you diagnose when two ECU's connected to cancasexl with two different channel and having errors on can bus.
+
+14) MCDC and Model advisor Checks?
+
+
+write a program to write and read the data to and from the file by using two function read and write call those functions by using function pointer.
+
+
+file.c
+
+		int a
+		void fun()
+		{
+			a=20;
+		}
+
+
+		file1.c
+		int fun1()
+		{
+			a=10;
+		}
+
+		main.c
+
+		int main()
+		{
+		fun();
+		fun1();
+		}
+
+will program execute if not why?   How solve the problem  if yes he ask some questions
+
+
+
+
+
+how you will send a message for every 100ms,with program explanation
+13.how the setTimer() function will works
+
+
+
+
+
+union u
+{
+int x;
+char y;
+};
+It is possible to allocate memory only for variable y ?It is possible to initialize the value for both varaibles x and y ?
+
+
+Use of Targetlink the 
+
+
+Logical question:if two wires A and B are present if i burn two wires it will take 1hr but i want calculat at 45th minute,how much it burned.
+
+
+What happen when two CAN nodes are sending same identifier at a same time?
